@@ -1,0 +1,282 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+.font-garamond{
+    font-family: 'EB Garamond', serif;
+}
+
+.bg-brown{
+    background-color: RGB(85, 47, 45);
+}
+
+.bg-footer{
+    background-color: RGB(33, 33, 33);
+}
+
+.bg-hero{
+    background-color: RGB(254, 236, 221);
+}
+
+.text-brown{
+    color: RGB(85, 47, 45);
+}
+
+.f-0-9{
+    font-size: 0.9rem;
+}
+
+.f-0-8{
+    font-size: 0.8rem;
+}
+
+.fs-4vw{
+    font-size: 7.4vw;
+    line-height: 6vw;
+}
+
+.ms--100{
+    margin-left: -97%;
+}
+
+.ms--20{
+    margin-left: -5%;
+}
+
+.mt--15{
+    margin-top: -15%;
+}
+
+.mt--30{
+    margin-top: -35%;
+}
+
+.ms--70{
+    margin-left: -65%;
+}
+
+.ms-4vw{
+    margin-left: 4vw;
+}
+
+.ms-10vw{
+    margin-left: 20vw;
+}
+
+.me--10vw{
+    margin-right: -20vw;
+}
+
+.pe-10vw{
+    padding-right: 9vw;
+}
+
+.ps-2vw{
+    padding-left: 2vw;
+}
+
+.px-3vw{
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.pb-4vw{
+    padding-bottom: 5vw;
+}
+
+.pt-4vw{
+    padding-top: 9vw;
+}
+
+.py-4vw{
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+}
+
+.h-4vw{
+    height: 5vw;
+}
+
+.h-5vw{
+    height: 7vw;
+}
+
+.h-10vw{
+    height: 10vw;
+}
+
+.h-17vw{
+    height: 17vw;
+}
+
+.h-50vw{
+    height: 45vw;
+}
+
+.h-60vw{
+    height: 55vw;
+}
+
+.h-35vw{
+    height: 35vw;
+}
+
+.h-40{
+    height: 30%;
+}
+
+.h-20vw{
+    height: 20vw;
+}
+
+.h-23vw{
+    height: 23vw;
+}
+
+.h-85{
+    height: 85%;
+}
+
+.h-30vw{
+    height: 30vw;
+}
+
+.h-100vh{
+    height: 100vh;
+}
+
+.h-8vw{
+    height: 5vw;
+}
+
+.h-90{
+    height: 90%;
+}
+
+.h-3vw{
+    height: 3vw;
+}
+
+.w-3vw{
+    width: 3vw;
+}
+
+.w-8vw{
+    width: 5vw;
+}
+
+.w-60{
+    width: 75%;
+}
+
+.w-200{
+    width: 160%;
+}
+
+.w-65{
+    width: 65%;
+}
+
+.w-400{
+    width: 400%;
+}
+
+.top-1{
+    top: 1%;
+}
+
+.top-5{
+    top: 5%;
+}
+
+.top-7{
+    top: 7%;
+}
+
+.top-15{
+    top: 15%;
+}
+
+.top-18{
+    top: 18%;
+}
+
+.top-20{
+    top: 32%;
+}
+
+.top--10{
+    top: -10%;
+}
+
+.top--20{
+    top: -23%;
+}
+
+.top-60{
+    top: 60%;
+}
+
+.top-80{
+    top: 70%;
+}
+
+.start-5{
+    left: 4%;
+}
+
+.start-10{
+    left: 10%;
+}
+
+.start-25{
+    left: 25%;
+}
+
+.start-35{
+    left: 35%;
+}
+
+.start-45{
+    left: 45%;
+}
+
+.start-60{
+    left: 60%;
+}
+
+.start-80{
+    left: 80%;
+}
+
+.start-85{
+    left: 90%;
+}
+
+.start-95{
+    left: 95%;
+}
+
+.start--20{
+    left: -10%;
+}
+
+.not-display{
+    display: none;
+}
+
+.rotate-45{
+    transform: rotate(25deg);
+}
+
+.rotate-50{
+    transform: rotate(60deg);
+}
+
+.rotate--25{
+    transform: rotate(-25deg);
+}
